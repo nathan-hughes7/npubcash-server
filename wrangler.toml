@@ -1,4 +1,4 @@
-name = "npubcash-server"
+name = "npub-cash"
 main = "dist/index.js"
 compatibility_date = "2024-05-07"
 compatibility_flags = ["nodejs_compat"]
